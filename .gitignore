@@ -1,0 +1,6 @@
+.env
+data/source/*
+data/vector_store/*
+data/processed/*
+app_database/*
+data/*
