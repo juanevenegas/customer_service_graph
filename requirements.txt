@@ -1,8 +1,8 @@
-langchain==0.0.220
-langgraph==0.0.8
-openai==0.27.5
-sqlite3 # Built-in with Python, no need to install separately
-python-dotenv==1.0.0
-numpy==1.24.4
-pandas==1.5.3
-jsonlines==3.1.0
+langchain
+langgraph
+openai
+sqlite3
+python-dotenv
+numpy
+pandas
+jsonlines
